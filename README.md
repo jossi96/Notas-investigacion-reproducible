@@ -22,3 +22,5 @@ Figura 1. Resultados de la revisión sistemática de archivos Excel suplementari
 Bezjak, S., Clyburne-Sherin, A., Conzett, P., Fernandes, P., Görögh, E., Helbig, K., Kramer, B., Labastida, I., Niemeyer, K., Psomopoulos, F., Ross-Hellauer, T., Schneider, R., Tennant, J., Verbakel, E., Brinken, H., & Heller, L. (2018). _Open Science Training Handbook_. Zenodo. https://doi.org/10.5281/ZENODO.1212496
 
 Claerbout, J. F. (1992). _Earth Soundings Analysis: Processing Versus Inversion_. Blackwell Science Inc.
+
+Ziemann, M., Eren, Y., & El-Osta, A. (2016). Gene name errors are widespread in the scientific literature. _Genome Biology, 17_(1), 177. https://doi.org/10.1186/s13059-016-1044-7
